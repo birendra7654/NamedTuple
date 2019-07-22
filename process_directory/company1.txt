@@ -1,0 +1,6 @@
+CompanyName        Date                 Open       High          Low         Close           Volume
+Nifty               7-July-19           109.26      111.45       108           111.20          3000000
+BSE            7-July-19           209.26      111.45       208           111.20          2300000
+YesBank                7-July-19           309.26      311.45       308           311.20          3220000
+Nestle               7-July-19           409.26      411.45       408           411.20          4000000
+Dabur            7-July-19           509.26      511.45       508           511.20          5000000
